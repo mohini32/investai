@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InvestAI - AI-Powered Financial Advisor & Investment Planner
 
 ## 🚀 Overview
@@ -142,3 +143,7 @@ For questions or support, please open an issue on GitHub.
 ---
 
 **Built with ❤️ for Indian investors**
+=======
+# investai
+AI-powered investment analysis platform with real-time market data, portfolio optimization, and intelligent trading recommendations
+>>>>>>> fd5b225aafb2d67969ef4cea0a6cc16bcdd61498
